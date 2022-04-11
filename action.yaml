@@ -1,7 +1,7 @@
 name: "Name hello"
 description: "Bonjour!"
 inputs:
-  name:
+  toto:
     description: "un nom"
     required: true
     default: "Groot"
